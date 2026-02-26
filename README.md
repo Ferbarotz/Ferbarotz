@@ -21,5 +21,6 @@ Actualmente estoy trabajando en proyectos Full-Stack para seguir aprendiendo sob
 
 ---
 
-### 📊 Estadísticas de GitHub:
-![Estadísticas de Ferbarotz](https://github-readme-stats.vercel.app/api?username=Ferbarotz&show_icons=true&theme=dark)
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ferbarotz&show_icons=true&theme=dark)
