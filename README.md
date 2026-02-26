@@ -6,7 +6,7 @@ Actualmente estoy trabajando en proyectos Full-Stack para seguir aprendiendo sob
 ---
 
 ### 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-barrera-ortiz-a0b58a2ba/?isSelfProfile=true)
 
 ---
 
