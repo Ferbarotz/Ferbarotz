@@ -2,6 +2,7 @@
 
 ### 💫 Acerca de mí:
 Actualmente estoy trabajando en proyectos Full-Stack para seguir aprendiendo sobre tecnologías modernas. Busco oportunidades para crecer como desarrollador y aportar valor en equipos dinámicos.
+Me interesa empezar a trabajar en el medio y así crecer como desarrollador y adquirir experiencia.
 
 ---
 
